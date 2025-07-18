@@ -104,16 +104,16 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'schrimpel@math.univ-paris13.fr', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'schrimpel@math.univ-paris13.fr', 'message']
   transforms:
-    email                : "yml"
+    schrimpel@math.univ-paris13.fr                : "md5"
   generatedFields:
     date:
       type               : "date"
