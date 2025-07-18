@@ -16,7 +16,8 @@ redirect_from:
 * M.A.St. Mathematics, Cambridge University, 2023
 * B.Sc. Mathematics, King's College London, 2022
 %}
-Work experience
+
+/// Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -33,7 +34,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+[Skills]: #
 ======
 * Skill 1
 * Skill 2
