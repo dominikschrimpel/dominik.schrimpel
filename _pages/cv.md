@@ -16,7 +16,7 @@ Education
 * M.A.St. Mathematics, Cambridge University, 2023
 * B.Sc. Mathematics, King's College London, 2022
 
-[Work experience
+Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -47,7 +47,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-]: #
+
 
 Talks
 ======
