@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year doctorate candidate in mathematics at Universite Paris Sorbonne Nord (Paris 13), LAGA. 
+I am a second year doctorate candidate in mathematics at [Universite Paris Sorbonne Nord (Paris 13), LAGA]{https://www.math.univ-paris13.fr/}. 
 
-My supervisor is Christian Ausoni and together we work on computations of algebraic K-theory and topological cyclic homology of lower chromatic ring spectra. 
+My supervisor is [Christian Ausoni]{https://www.math.univ-paris13.fr/~ausoni/} and together we work on computations of algebraic K-theory and topological cyclic homology of lower chromatic ring spectra. 
