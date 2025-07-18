@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D Math\'ematiques, LAGA, Universite Paris Sorbonne Nord, 2027 (expected)
-* M. Math\'ematiques Fondamentales, Paris Graduate School of Mathematics, Sorbonne Universit\'e 2024
+* M.2 Math\'ematiques Fondamentales, Paris Graduate School of Mathematics, Sorbonne Universit\'e 2024
 * M.A.St. Mathematics, Cambridge University, 2023
 * B.Sc. Mathematics, King's College London, 2022
 
