@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Math\'ematiques, LAGA, Universite Paris Sorbonne Nord, 2027 (expected)
+* M. Math\'ematiques Fondamentales, Paris Graduate School of Mathematics, Sorbonne Universit\'e 2024
+* M.A.St. Mathematics, Cambridge University, 2023
+* B.Sc. Mathematics, King's College London, 2022
 
-Work experience
+[Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -46,7 +47,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+]: #
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
