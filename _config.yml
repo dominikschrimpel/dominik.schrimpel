@@ -29,7 +29,7 @@ author:
   location         : "Paris, France"
   employer         : "Universite Paris Sorbonne Nord"
   uri              : # URL
-  schrimpel@math.univ-paris13.fr            : "schrimpel@math.univ-paris13.fr" 
+  email             : "schrimpel@math.univ-paris13.fr" 
 
   # Academic websites
   academia         : # URL
@@ -104,16 +104,16 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'schrimpel@math.univ-paris13.fr', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'schrimpel@math.univ-paris13.fr', 'message']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    schrimpel@math.univ-paris13.fr                : "md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
